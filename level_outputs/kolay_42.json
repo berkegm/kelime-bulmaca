@@ -1,0 +1,250 @@
+{
+  "level_id": "kolay_42",
+  "difficulty": "kolay",
+  "seed": 42,
+  "grid": [
+    [
+      "B",
+      "H",
+      "Ş",
+      "U",
+      "D",
+      "L",
+      "İ",
+      "S",
+      "Ş"
+    ],
+    [
+      "Ü",
+      "Ç",
+      "L",
+      "P",
+      "M",
+      "P",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "Ö",
+      "İ",
+      "P",
+      "Y",
+      "O",
+      "Z",
+      "U",
+      "K",
+      "J"
+    ],
+    [
+      "E",
+      "B",
+      "Y",
+      "Ç",
+      "V",
+      "Ç",
+      "J",
+      "D",
+      "Ç"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "R",
+      "P",
+      "N",
+      "V",
+      "G",
+      "M"
+    ],
+    [
+      "D",
+      "U",
+      "J",
+      "M",
+      "A",
+      "V",
+      "İ",
+      "R",
+      "P"
+    ],
+    [
+      "N",
+      "Ğ",
+      "Ö",
+      "E",
+      "Z",
+      "F",
+      "J",
+      "İ",
+      "C"
+    ],
+    [
+      "B",
+      "Ö",
+      "B",
+      "E",
+      "A",
+      "İ",
+      "B",
+      "V",
+      "E"
+    ],
+    [
+      "H",
+      "Ğ",
+      "Z",
+      "C",
+      "R",
+      "L",
+      "N",
+      "P",
+      "Ç"
+    ]
+  ],
+  "words": [
+    "PAZAR",
+    "MAVİ",
+    "GRİ",
+    "MOR",
+    "FİL"
+  ],
+  "placed_words": [
+    {
+      "word": "PAZAR",
+      "row": 4,
+      "col": 4,
+      "direction": "DOWN",
+      "cells": [
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          7,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ]
+    },
+    {
+      "word": "MAVİ",
+      "row": 5,
+      "col": 3,
+      "direction": "RIGHT",
+      "cells": [
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          6
+        ]
+      ]
+    },
+    {
+      "word": "GRİ",
+      "row": 4,
+      "col": 7,
+      "direction": "DOWN",
+      "cells": [
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "word": "MOR",
+      "row": 4,
+      "col": 1,
+      "direction": "RIGHT",
+      "cells": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    },
+    {
+      "word": "FİL",
+      "row": 6,
+      "col": 5,
+      "direction": "DOWN",
+      "cells": [
+        [
+          6,
+          5
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          8,
+          5
+        ]
+      ]
+    }
+  ],
+  "grid_size": [
+    9,
+    9
+  ],
+  "metrics": {
+    "score": 12.98,
+    "level": "kolay",
+    "metrics": {
+      "grid_size": "9x9",
+      "word_count": 5,
+      "total_letters": 18,
+      "unique_letters": 11,
+      "avg_word_length": 3.6,
+      "letter_ratio": 0.611,
+      "direction_count": 2,
+      "directions_used": [
+        "DOWN",
+        "RIGHT"
+      ]
+    }
+  },
+  "theme": null,
+  "created_at": "2026-03-23T17:44:59.761470"
+}
